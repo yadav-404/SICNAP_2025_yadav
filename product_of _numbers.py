@@ -9,7 +9,7 @@ num3 = float(input("Enter the third number: "))
 
 
 
-# Calculate the sum
+# Calculate the product
 total = num1*num2*num3
 
 # Display the result
