@@ -1,0 +1,11 @@
+Experiment_ID,Plasma_Temperature_K,Neutron_Counts,Magnetic_Field_Tesla,Radiation_Index,Experiment_Phase
+EXP001,1.2e7,450,2.5,0.87,Initial
+EXP002,1.5e7,490,2.7,0.92,Ramp-Up
+EXP003,1.6e7,530,2.6,0.95,Ramp-Up
+EXP004,1.8e7,580,2.9,1.01,Steady
+EXP005,1.7e7,560,3.0,1.03,Steady
+EXP006,2.0e7,610,3.1,1.10,Peak
+EXP007,1.9e7,600,3.2,1.08,Peak
+EXP008,1.6e7,540,2.8,0.98,Decline
+EXP009,1.4e7,500,2.6,0.93,Decline
+EXP010,1.3e7,470,2.4,0.89,Shutdown
